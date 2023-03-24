@@ -1,2 +1,2 @@
-# fullstackopen-2022
-Repository for Full Stack Open 2022 Course
+# fullstackopen-2023
+Repository for Full Stack Open 2023 Course
